@@ -1,0 +1,22 @@
+#anchorFlex {
+    
+    display:flex;
+    justify-content: center;
+    border: 1px solid;
+}
+
+.pictureLink {
+    max-width: 73%;
+}
+
+a {
+    border: 1px solid red;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.imageContainer {
+    text-align: center;
+}
