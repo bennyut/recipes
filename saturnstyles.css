@@ -1,0 +1,39 @@
+body { 
+    background: #36115c;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial;
+}
+
+h2  {
+    margin-top: 30px;
+    font-size: 2rem;
+}
+
+img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#recipeContainer{
+    text-align: center;
+    margin: 30px 220px 20px 220px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #dfdfdf;
+    border: 1px solid #ffffff;
+}
+
+#hotaruDesc {
+    padding: 0 350px;
+}
+
+ul {
+    margin-top: 30px;
+    list-style-position: inside;
+}
+
+ol { 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    list-style-position: inside;
+
+}

@@ -17,13 +17,15 @@
     border: 1px solid;
 }
 
+
+
 #logoDiv {
     animation: topDown 2s, fadeIn 2s;
 }
 
 
 body {
-    background-color: #fcdcdc;
+    background-color: #fde3e3;
 }
 
 /* contains all images */
@@ -54,5 +56,5 @@ body {
     position: fixed;
     bottom: 10;
     text-align: center;
-
 }
+
